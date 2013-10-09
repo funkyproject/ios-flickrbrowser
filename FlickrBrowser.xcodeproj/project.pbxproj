@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8402B31C18053C15008B2C1B /* 1536-paysage-virtuel-WallFizz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B30A18053C15008B2C1B /* 1536-paysage-virtuel-WallFizz.jpg */; };
+		8402B31D18053C15008B2C1B /* 65b5c0cf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B30B18053C15008B2C1B /* 65b5c0cf.jpg */; };
+		8402B31E18053C15008B2C1B /* 97b2c5344da5109651142aaf63f0d321_large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B30C18053C15008B2C1B /* 97b2c5344da5109651142aaf63f0d321_large.jpg */; };
+		8402B31F18053C15008B2C1B /* 9dd96c28.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B30D18053C15008B2C1B /* 9dd96c28.jpg */; };
+		8402B32018053C15008B2C1B /* a0ab4862.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B30E18053C15008B2C1B /* a0ab4862.jpg */; };
+		8402B32118053C15008B2C1B /* ahdbe5xj.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B30F18053C15008B2C1B /* ahdbe5xj.jpg */; };
+		8402B32218053C15008B2C1B /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31018053C15008B2C1B /* bg.jpg */; };
+		8402B32318053C15008B2C1B /* boudha-bassin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31118053C15008B2C1B /* boudha-bassin.jpg */; };
+		8402B32418053C15008B2C1B /* edb72e3b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31218053C15008B2C1B /* edb72e3b.jpg */; };
+		8402B32518053C15008B2C1B /* fond-ecran-paysage-montagneux.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31318053C15008B2C1B /* fond-ecran-paysage-montagneux.jpg */; };
+		8402B32618053C15008B2C1B /* fond_ecran_wallpaper_paysage_0487.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31418053C15008B2C1B /* fond_ecran_wallpaper_paysage_0487.jpg */; };
+		8402B32718053C15008B2C1B /* nwkl45v7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31518053C15008B2C1B /* nwkl45v7.jpg */; };
+		8402B32818053C15008B2C1B /* paysage-bleu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31618053C15008B2C1B /* paysage-bleu.jpg */; };
+		8402B32918053C15008B2C1B /* paysage-nourriture-aliment-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31718053C15008B2C1B /* paysage-nourriture-aliment-01.jpg */; };
+		8402B32A18053C15008B2C1B /* Paysage_01_réserve_de_matane_(2005-08).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31818053C15008B2C1B /* Paysage_01_réserve_de_matane_(2005-08).jpg */; };
+		8402B32B18053C15008B2C1B /* paysage_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31918053C15008B2C1B /* paysage_14.jpg */; };
+		8402B32C18053C15008B2C1B /* paysages-paysage-virtuel-big.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31A18053C15008B2C1B /* paysages-paysage-virtuel-big.jpg */; };
+		8402B32D18053C15008B2C1B /* sc1y0tl6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8402B31B18053C15008B2C1B /* sc1y0tl6.jpg */; };
 		842B0CFD1804533900C39B04 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 842B0CFC1804533900C39B04 /* UIKit.framework */; };
 		842B0CFF1804533900C39B04 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 842B0CFE1804533900C39B04 /* Foundation.framework */; };
 		842B0D011804533900C39B04 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 842B0D001804533900C39B04 /* CoreGraphics.framework */; };
@@ -22,6 +40,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8402B30A18053C15008B2C1B /* 1536-paysage-virtuel-WallFizz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1536-paysage-virtuel-WallFizz.jpg"; sourceTree = "<group>"; };
+		8402B30B18053C15008B2C1B /* 65b5c0cf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 65b5c0cf.jpg; sourceTree = "<group>"; };
+		8402B30C18053C15008B2C1B /* 97b2c5344da5109651142aaf63f0d321_large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 97b2c5344da5109651142aaf63f0d321_large.jpg; sourceTree = "<group>"; };
+		8402B30D18053C15008B2C1B /* 9dd96c28.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9dd96c28.jpg; sourceTree = "<group>"; };
+		8402B30E18053C15008B2C1B /* a0ab4862.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a0ab4862.jpg; sourceTree = "<group>"; };
+		8402B30F18053C15008B2C1B /* ahdbe5xj.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ahdbe5xj.jpg; sourceTree = "<group>"; };
+		8402B31018053C15008B2C1B /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		8402B31118053C15008B2C1B /* boudha-bassin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "boudha-bassin.jpg"; sourceTree = "<group>"; };
+		8402B31218053C15008B2C1B /* edb72e3b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = edb72e3b.jpg; sourceTree = "<group>"; };
+		8402B31318053C15008B2C1B /* fond-ecran-paysage-montagneux.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fond-ecran-paysage-montagneux.jpg"; sourceTree = "<group>"; };
+		8402B31418053C15008B2C1B /* fond_ecran_wallpaper_paysage_0487.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fond_ecran_wallpaper_paysage_0487.jpg; sourceTree = "<group>"; };
+		8402B31518053C15008B2C1B /* nwkl45v7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nwkl45v7.jpg; sourceTree = "<group>"; };
+		8402B31618053C15008B2C1B /* paysage-bleu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "paysage-bleu.jpg"; sourceTree = "<group>"; };
+		8402B31718053C15008B2C1B /* paysage-nourriture-aliment-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "paysage-nourriture-aliment-01.jpg"; sourceTree = "<group>"; };
+		8402B31818053C15008B2C1B /* Paysage_01_réserve_de_matane_(2005-08).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Paysage_01_réserve_de_matane_(2005-08).jpg"; sourceTree = "<group>"; };
+		8402B31918053C15008B2C1B /* paysage_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paysage_14.jpg; sourceTree = "<group>"; };
+		8402B31A18053C15008B2C1B /* paysages-paysage-virtuel-big.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "paysages-paysage-virtuel-big.jpg"; sourceTree = "<group>"; };
+		8402B31B18053C15008B2C1B /* sc1y0tl6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sc1y0tl6.jpg; sourceTree = "<group>"; };
 		842B0CF81804533900C39B04 /* FlickrBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlickrBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		842B0CFC1804533900C39B04 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		842B0CFE1804533900C39B04 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -55,9 +91,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8402B30918053C15008B2C1B /* paysage */ = {
+			isa = PBXGroup;
+			children = (
+				8402B30A18053C15008B2C1B /* 1536-paysage-virtuel-WallFizz.jpg */,
+				8402B30B18053C15008B2C1B /* 65b5c0cf.jpg */,
+				8402B30C18053C15008B2C1B /* 97b2c5344da5109651142aaf63f0d321_large.jpg */,
+				8402B30D18053C15008B2C1B /* 9dd96c28.jpg */,
+				8402B30E18053C15008B2C1B /* a0ab4862.jpg */,
+				8402B30F18053C15008B2C1B /* ahdbe5xj.jpg */,
+				8402B31018053C15008B2C1B /* bg.jpg */,
+				8402B31118053C15008B2C1B /* boudha-bassin.jpg */,
+				8402B31218053C15008B2C1B /* edb72e3b.jpg */,
+				8402B31318053C15008B2C1B /* fond-ecran-paysage-montagneux.jpg */,
+				8402B31418053C15008B2C1B /* fond_ecran_wallpaper_paysage_0487.jpg */,
+				8402B31518053C15008B2C1B /* nwkl45v7.jpg */,
+				8402B31618053C15008B2C1B /* paysage-bleu.jpg */,
+				8402B31718053C15008B2C1B /* paysage-nourriture-aliment-01.jpg */,
+				8402B31818053C15008B2C1B /* Paysage_01_réserve_de_matane_(2005-08).jpg */,
+				8402B31918053C15008B2C1B /* paysage_14.jpg */,
+				8402B31A18053C15008B2C1B /* paysages-paysage-virtuel-big.jpg */,
+				8402B31B18053C15008B2C1B /* sc1y0tl6.jpg */,
+			);
+			path = paysage;
+			sourceTree = "<group>";
+		};
 		842B0CED1804533900C39B04 = {
 			isa = PBXGroup;
 			children = (
+				8402B30918053C15008B2C1B /* paysage */,
 				842B0D041804533900C39B04 /* FlickrBrowser */,
 				842B0CFB1804533900C39B04 /* Frameworks */,
 				842B0CF91804533900C39B04 /* Products */,
@@ -165,6 +227,24 @@
 				842B0D131804533900C39B04 /* Default@2x.png in Resources */,
 				842B0D151804533900C39B04 /* Default-568h@2x.png in Resources */,
 				842B0D1F1804535000C39B04 /* StoryboardIphone.storyboard in Resources */,
+				8402B31C18053C15008B2C1B /* 1536-paysage-virtuel-WallFizz.jpg in Resources */,
+				8402B31D18053C15008B2C1B /* 65b5c0cf.jpg in Resources */,
+				8402B31E18053C15008B2C1B /* 97b2c5344da5109651142aaf63f0d321_large.jpg in Resources */,
+				8402B31F18053C15008B2C1B /* 9dd96c28.jpg in Resources */,
+				8402B32018053C15008B2C1B /* a0ab4862.jpg in Resources */,
+				8402B32118053C15008B2C1B /* ahdbe5xj.jpg in Resources */,
+				8402B32218053C15008B2C1B /* bg.jpg in Resources */,
+				8402B32318053C15008B2C1B /* boudha-bassin.jpg in Resources */,
+				8402B32418053C15008B2C1B /* edb72e3b.jpg in Resources */,
+				8402B32518053C15008B2C1B /* fond-ecran-paysage-montagneux.jpg in Resources */,
+				8402B32618053C15008B2C1B /* fond_ecran_wallpaper_paysage_0487.jpg in Resources */,
+				8402B32718053C15008B2C1B /* nwkl45v7.jpg in Resources */,
+				8402B32818053C15008B2C1B /* paysage-bleu.jpg in Resources */,
+				8402B32918053C15008B2C1B /* paysage-nourriture-aliment-01.jpg in Resources */,
+				8402B32A18053C15008B2C1B /* Paysage_01_réserve_de_matane_(2005-08).jpg in Resources */,
+				8402B32B18053C15008B2C1B /* paysage_14.jpg in Resources */,
+				8402B32C18053C15008B2C1B /* paysages-paysage-virtuel-big.jpg in Resources */,
+				8402B32D18053C15008B2C1B /* sc1y0tl6.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +366,7 @@
 				842B0D1D1804533900C39B04 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
